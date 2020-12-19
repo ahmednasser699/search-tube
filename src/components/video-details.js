@@ -3,7 +3,7 @@ import React from 'react';
 const VideoDetails =({selectedVod})=>{
    
     if(!selectedVod){
-        return <div>loading...</div>
+        return <div>search for videos in youtube</div>
     }
     const url =`https://www.youtube.com/embed/${selectedVod.id.videoId}`
     return(
