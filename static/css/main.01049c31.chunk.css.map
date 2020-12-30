@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/item.css"],"names":[],"mappings":"AAAA,SACI,sBAAwB,CACxB,gCAEJ","file":"main.01049c31.chunk.css","sourcesContent":[".voditem{\r\n    display: flex !important;\r\n    align-items: flex-start !important;\r\n    \r\n}"]}
