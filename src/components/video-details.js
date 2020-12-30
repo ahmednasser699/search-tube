@@ -13,7 +13,7 @@ const VideoDetails =({selectedVod})=>{
 
        
        </div>
-       <div className="ui segment">
+       <div className="ui segment details">
        <div className="content">
     <div className="header">{selectedVod.snippet.title}</div>
     {selectedVod.snippet.description}

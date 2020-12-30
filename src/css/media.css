@@ -1,0 +1,25 @@
+/*mobile screens*/
+@media (max-width:767px){
+
+    .ui.grid>.row>[class*="nine wide"].column,.ui.grid>.row>[class*="seven wide"].column{
+        width: 100% !important;
+    }
+    .details{
+        margin-bottom: 30px !important;
+    }
+
+}
+/*small screens*/
+@media (min-width:768px) and (max-width:991px){
+   
+}
+
+/*medium screens*/
+@media (min-width:991px) and (max-width:1199px){
+   
+}
+
+/*large screens*/
+@media (min-width:1200px){
+    
+}
